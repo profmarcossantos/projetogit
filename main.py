@@ -1,1 +1,4 @@
-print("Olá Mundo!")
+from funcoes import digaOi
+print("Hello World!")
+
+digaOi()
