@@ -1,0 +1,2 @@
+def digaOi():
+    print("oi")
